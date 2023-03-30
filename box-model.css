@@ -6,7 +6,7 @@ div {
   margin: 20px;
   padding: 10px;
   text-align: center;
-  border-right-color: red;
+  border-right-color: rgb(226, 14, 14);
   border-left-color: blue;
   border-top-color: yellow;
   border-bottom-color: yellow;
